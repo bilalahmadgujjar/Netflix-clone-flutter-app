@@ -59,16 +59,6 @@ class _NetFlixState extends State<NetFlix> {
           color: themeController.textColor, // Set your desired icon color here
           size: screenHeight(context) * 2.5, // Set default size if needed
         ),
-        textTheme: TextTheme(
-          headline1: TextStyle(
-              color: themeController.textColor), // Example headline1 color
-          bodyText1: TextStyle(
-              color: themeController.textColor), // Example body text color
-          bodyText2: TextStyle(
-              color: themeController.textColor), // Example body text color
-          caption: TextStyle(
-              color: themeController.textColor), // Example caption text color
-        ),
       ),
       home: SplashScreen(),
     );
