@@ -1,4 +1,4 @@
-# corona
+# NetFlix Flutter App
 
 A new Flutter project.
 
